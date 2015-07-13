@@ -1,2 +1,2 @@
 # JavaDirectory
-a simple directory
+a simple directory, tried this with notepad++
