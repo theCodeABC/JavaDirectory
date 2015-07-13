@@ -1,0 +1,2 @@
+# JavaDirectory
+a simple directory
